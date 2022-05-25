@@ -1,3 +1,8 @@
+//
+// Shane Purdy
+// 1001789955
+//
+//
 // The MIT License (MIT)
 // 
 // Copyright (c) 2022 Trevor Bakker 
